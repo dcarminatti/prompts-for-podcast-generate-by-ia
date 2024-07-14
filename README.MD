@@ -5,10 +5,6 @@
 />
 </p>
 
-<p align="center">
-    [🎧 Ouvir podcast](https://github.com/dcarminatti/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_editado.MP3)
-</p>
-
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
