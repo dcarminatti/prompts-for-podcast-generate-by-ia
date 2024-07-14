@@ -6,6 +6,8 @@
 </p>
 
 # Projeto Podcast Gerado por I.A.s
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado. Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
 [🎧 Ouvir Podcast](https://github.com/dcarminatti/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_editado.MP3)
 
 ## 💻 Tecnologias utilizadas no projeto
