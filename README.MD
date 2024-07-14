@@ -5,11 +5,8 @@
 />
 </p>
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
+[🎧 Ouvir Podcast](https://github.com/dcarminatti/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_editado.MP3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
