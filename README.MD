@@ -27,6 +27,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## 📚 Materiais
 
 - [Editor de aúdio](https://clipchamp.com/en/)
+- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f)
 
 ## 🛠️ Instruções de execução
 
